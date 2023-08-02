@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\bin\Debug\Magaza77.exe.config
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\bin\Debug\Magaza77.exe
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\bin\Debug\Magaza77.pdb
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.Form1.resources
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.exe
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.pdb
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.Guncelleme.resources
+C:\Users\ASUS\Desktop\Elif\Magaza77\Magaza77\obj\Debug\Magaza77.Personel_Silme.resources
